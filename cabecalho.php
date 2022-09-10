@@ -44,6 +44,10 @@
                 <a href="./estoque.php">
                     <li>Estoque</li>
                 </a>
+
+                <a href="./redes.php">
+                    <li>Redes Sociais</li>
+                </a>
                     
                 </ul>
             </nav>
